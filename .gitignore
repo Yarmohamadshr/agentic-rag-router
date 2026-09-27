@@ -4,3 +4,4 @@ __pycache__/
 *.json.bak
 rag_cache.json
 .DS_Store
+Agentic_RAG/qdrant_data/.lock
