@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.json.bak
+rag_cache.json
+.DS_Store
