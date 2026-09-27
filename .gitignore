@@ -5,3 +5,4 @@ __pycache__/
 rag_cache.json
 .DS_Store
 Agentic_RAG/qdrant_data/.lock
+*.html
